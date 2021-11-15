@@ -3,8 +3,8 @@ package main
 import (
 	flag "github.com/ogier/pflag"
 	log "github.com/sirupsen/logrus"
-	"github.com/trhodeos/n64rom"
-	"github.com/trhodeos/spicy"
+	"github.com/7dog123/n64rom"
+	"github.com/7dog123/spicy"
 	"io/ioutil"
 	"os"
 )
