@@ -4,7 +4,7 @@ import (
 	"container/list"
 	"errors"
 	"fmt"
-	"github.com/alecthomas/participle"
+	"github.com/7dog123/participle"
 	log "github.com/sirupsen/logrus"
 	"io"
 	"os"
